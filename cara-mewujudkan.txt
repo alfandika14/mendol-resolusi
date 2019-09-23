@@ -5,3 +5,4 @@ Cara :
    - Olahraga pagi
      ^ Jogging 
 2. Belajar hal baru
+   - React
