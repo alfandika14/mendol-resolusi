@@ -3,4 +3,6 @@ Cara :
    - Bangun pagi
    - Makan yang sehat
    - Olahraga pagi
+     ^ Lari
 2. Belajar hal baru
+   - React
