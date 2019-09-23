@@ -3,4 +3,5 @@ Cara :
    - Bangun pagi
    - Makan yang sehat
    - Olahraga pagi
+     ^ Jogging 
 2. Belajar hal baru
